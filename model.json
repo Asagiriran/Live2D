@@ -156,8 +156,8 @@
 			{"file":"motions/head4.mtn"},
 			{"file":"motions/head5.mtn"},
 			{"file":"motions/head6.mtn"},
-		  {"file":"motions/head7.mtn"},
-		  {"file":"motions/head8.mtn"}
+		 	{"file":"motions/head7.mtn"},
+		 	{"file":"motions/head8.mtn"}
     ],
 		"tap_body":[
 			{"file":"motions/body1.mtn"},
