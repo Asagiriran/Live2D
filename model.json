@@ -29,18 +29,14 @@
 			{"file":"motions/Sleeping.mtn"}
 		],
 		"flick_head":[
-			{"file":"motions/head1.mtn"},
-			{"file":"motions/head2.mtn"},
 			{"file":"motions/head3.mtn"},
 			{"file":"motions/head4.mtn"},
 			{"file":"motions/head5.mtn"},
 			{"file":"motions/head6.mtn"},
-		 	{"file":"motions/head7.mtn"},
-		 	{"file":"motions/head8.mtn"}
+		 	{"file":"motions/head7.mtn"}
     ],
 		"tap_body":[
 			{"file":"motions/body1.mtn"},
-			{"file":"motions/body2.mtn"},
 			{"file":"motions/body3.mtn"},
 			{"file":"motions/body4.mtn"},
 			{"file":"motions/body5.mtn"},
