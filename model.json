@@ -2,8 +2,17 @@
 	"version":"1.0.0",
 	"model":"model.moc",
     "textures":[
-    "textures/texture_09.png",
-    "textures/texture_00.png"
+    //显示在网站页面上的服装放在第一个
+    "textures/texture_155.png",//冬季大衣（白）
+    "textures/texture_09.png",//初始服装
+    "textures/texture_59.png",//旗袍（粉红）
+    "textures/texture_94.png",//学校泳装（蓝）
+    "textures/texture_95.png",//学校泳装（白）
+    "textures/texture_32.png",//幼儿园制服（天蓝）
+    "textures/texture_33.png",//幼儿园制服（深蓝）
+    "textures/texture_53.png",//粉红睡衣
+    "textures/texture_120.png",//猫魔女（黑）
+    "textures/texture_122.png",//猫魔女（白）
     ],
     "layout":{
 		"center_x":0.0,
