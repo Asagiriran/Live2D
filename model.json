@@ -12,7 +12,7 @@
     "textures/texture_33.png",//幼儿园制服（深蓝）
     "textures/texture_53.png",//粉红睡衣
     "textures/texture_120.png",//猫魔女（黑）
-    "textures/texture_122.png",//猫魔女（白）
+    "textures/texture_122.png"//猫魔女（白）
     ],
     "layout":{
 		"center_x":0.0,
