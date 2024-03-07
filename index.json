@@ -2,7 +2,7 @@
 	"version":"1.0.0",
 	"model":"model.moc",
     "textures":[
-        "textures/default-costume.png"
+        "textures/texture_00.png"
     ],
     "layout":{
 		"center_x":0.0,
@@ -28,23 +28,10 @@
 			{"file":"motions/Sleeping.mtn"}
 		],
 		"flick_head":[
-			{"file":"motions/Touch Dere1.mtn"},
-			{"file":"motions/Touch Dere2.mtn"},
-			{"file":"motions/Touch Dere3.mtn"},
-			{"file":"motions/Touch Dere4.mtn"},
-			{"file":"motions/Touch Dere5.mtn"},
-			{"file":"motions/Touch Dere6.mtn"}
+			{"file":"motions/Breath1.mtn"}
 		],
 		"tap_body":[
-			{"file":"motions/Sukebei1.mtn"},
-			{"file":"motions/Sukebei2.mtn"},
-			{"file":"motions/Sukebei3.mtn"},
-			{"file":"motions/Touch1.mtn"},
-			{"file":"motions/Touch2.mtn"},
-			{"file":"motions/Touch3.mtn"},
-			{"file":"motions/Touch4.mtn"},
-			{"file":"motions/Touch5.mtn"},
-			{"file":"motions/Touch6.mtn"}
+			{"file":"motions/Breath1.mtn"}
 		]
 	}
 }
