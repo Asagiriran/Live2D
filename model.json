@@ -2,7 +2,7 @@
 	"version":"1.0.0",
 	"model":"model.moc",
     "textures":[
-    "textures/texture_113.png"
+    "textures/tex/texture_113.png"
     ],
     "layout":{
 		"center_x":0.0,
